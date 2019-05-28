@@ -1,0 +1,62 @@
+Enter a message to Decrypt: qf5wlpIe76OjTmr eKLbKVzmIcCniJofnBVWHlq2hPRDZXuxclu8s0
+Cipher Text: qf5wlpIe76OjTmr eKLbKVzmIcCniJofnBVWHlq2hPRDZXuxclu8s0
+
+Offset: 1; Result: 5vHtu y7vXZDfPuUv99yxuyfuiv8upduHf3uPvXuwuvEXtHuKyDfX 
+Offset: 2; Result: yirkNH bihI1EzNui33 eN ENGiqNVBNrEnNzihNUNivhkrNl 1EhH
+Offset: 3; Result:  GQgtrHOGPjRv2tNGnnHFtHvtMG5t8wtQvxt2GPtutGiPgQtdHRvPr
+Offset: 4; Result: HMSYkQrWMzp4i7ktMxxrTkrikZMykqUkSiek7MzkNkMGzYSkBr4izQ
+Offset: 5; Result: rZDCgSQoZ2V0GbgkZeeQXgQGgIZ g5ugDGFgbZ2gtgZM2CDgwQ0G2S
+Offset: 6; Result: QI1mYDSsI78LMOYgIFFShYSMYjIHYyNY1MTYOI7YkYIZ7m1YUSLM7D
+Offset: 7; Result: SjRcC1DajbqKZWCYjTTDPCDZCpjrC tCRZXCWjbCgCjIbcRCuDKZb1
+Offset: 8; Result: Dp46mR1fpO5lIomCpXX1zm1ImVpQmHkm4IhmopOmYmpjO64mN1lIOR
+Offset: 9; Result: 1V0Jc4REVWydjscmVhhR2cRjc8VScrgc0jPcsVWcCcVpWJ0ctRdjW4
+Offset: 10; Result: R8LA604v8o Bpa6c8PP4764p6q8D6QY6Lpz6a8o6m68VoAL6k4Bpo0
+Offset: 11; Result: 4qK9JL0iqsHwVfJ6qzz0bJ0VJ5q1JSCJKV2JfqsJcJq8s9KJg0wVsL
+Offset: 12; Result: 05l3AKLG5arU8EAJ522LOAL8Ay5RADmAl87AE5aA6A5qa3lAYLU8aK
+Offset: 13; Result: Lydn9lKMyfQuqv9Ay77KW9Kq9 y491c9dqb9vyf9J9y5fnd9CKuqfl
+Offset: 14; Result: K Bx3dlZ ESN5i39 bblo3l53H 03R63B5O3i E3A3 yExB3mlN5Ed
+Offset: 15; Result: lHwenBdIHvDtyGn3HOOdsndynrHLn4JnwyWnGHvn9nH vewncdtyvB
+Offset: 16; Result: drUFxwBjri1k MxnrWWBaxB xQrKx0AxU oxMrix3xrHiFUx6Bk iw
+Offset: 17; Result: BQuTeUwpQGRgHZexQoowfewHeSQleL9euHseZQGeneQrGTueJwgHGU
+Offset: 18; Result: wSNXFuUVSM4YrIFeSssUEFUrFDSdFK3FNraFISMFxFSQMXNFAUYrMu
+Offset: 19; Result: UDthTNu8DZ0CQjTFDaauvTuQT1DBTlnTtQfTjDZTeTDSZhtT9uCQZN
+Offset: 20; Result: u1kPXtNq1ILmSpXT1ffNiXNSXR1wXdxXkSEXp1IXFX1DIPkX3NmSIt
+Offset: 21; Result: NRgzhkt5RjKcDVhXREEtGhtDh4RUhBehgDvhVRjhThR1jzghntcDjk
+Offset: 22; Result: t4Y2Pgky4pl618Ph4vvkMPk1P04uPwFPY1iP84pPXP4Rp2YPxk61pg
+Offset: 23; Result: k0C7zYg 0VdJRqzP0iigZzgRzL0NzUTzCRGzq0Vzhz04V7CzegJRVY
+Offset: 24; Result: gLmb2CYHL8BA452zLGGYI2Y42KLt2uX2m4M25L82P2L08bm2FYA48C
+Offset: 25; Result: YKcO7mCrKqw90y72KMMCj7C07lKk7Nh7c0Z7yKq7z7KLqOc7TC90qm
+Offset: 26; Result: Cl6WbcmQl5U3L b7lZZmpbmLbdlgbtPb6LIb l5b2blK5W6bXm3L5c
+Offset: 27; Result: mdJoO6cSdyunKHObdIIcVOcKOBdYOkzOJKjOHdyO7OdlyoJOhcnKy6
+Offset: 28; Result: cBAsWJ6DB NxlrWOBjj68W6lWwBCWg2WAlpWrB WbWBd sAWP6xl J
+Offset: 29; Result: 6w9aoAJ1wHtedQoWwppJqoJdoUwmoY7o9dVoQwHoOowBHa9ozJedHA
+Offset: 30; Result: JU3fs9ARUrkFBSsoUVVA5sABsuUcsCbs3B8sSUrsWsUwrf3s2AFBr9
+Offset: 31; Result: AunEa394uQgTwDasu889ya9waNu6amOanwqaDuQaoauUQEna79TwQ3
+Offset: 32; Result: 9Nxvfn30NSYXU1faNqq3 f3UftNJfcWfxU5f1NSfsfNuSvxfb3XUSn
+Offset: 33; Result: 3teiExnLtDChuREft55nHEnuEktAE6oEeuyERtDEaEtNDieEOnhuDx
+Offset: 34; Result: nkFGvexKk1mPN4vEkyyxrvxNvgk9vJsvFN v4k1vfvkt1GFvWxPN1e
+Offset: 35; Result: xgTMiFelgRczt0ivg  eQietiYg3iAaiTtHi0gRiEigkRMTioeztRF
+Offset: 36; Result: eYXZGTFdY462kLGiYHHFSGFkGCYnG9fGXkrGLY4GvGYg4ZXGsF2k4T
+Offset: 37; Result: FChIMXTBC0J7gKMGCrrTDMTgMmCxM3EMhgQMKC0MiMCY0IhMaT7g0X
+Offset: 38; Result: TmPjZhXwmLAbYlZMmQQX1ZXYZcmeZnvZPYSZlmLZGZmCLjPZfXbYLh
+Offset: 39; Result: XczpIPhUcK9OCdIZcSShRIhCI6cFIxiIzCDIdcKIMIcmKpzIEhOCKP
+Offset: 40; Result: h62VjzPu6l3WmBjI6DDP4jPmjJ6TjeGj2m1jB6ljZj6clV2jvPWmlz
+Offset: 41; Result: PJ78p2zNJdnocwpjJ11z0pzcpAJXpFMp7cRpwJdpIpJ6d87pizocd2
+Offset: 42; Result: zAbqV72tABxs6UVpARR2LV26V9AhVTZVb64VUABVjVAJBqbVG2s6B7
+Offset: 43; Result: 29O58b7k9weaJu8V9447K87J839P8XI8OJ08u9w8p89Aw5O8M7aJwb
+Offset: 44; Result: 73WyqObg3UFfANq8300blqbAqn3zqhjqWALqN3UqVq39UyWqZbfAUO
+Offset: 45; Result: bno 5WOYnuTE9t5qnLLOd5O95xn25Pp5o9K5tnu585n3u o5IOE9uW
+Offset: 46; Result: OxsHyoWCxNXv3ky5xKKWByW3yex7yzVys3lykxNyqyxnNHsyjWv3No
+Offset: 47; Result: Wear something yellow on Feb 28 and get 5 extra points
+Offset: 48; Result: oFfQHascFkPGxYH FddsUHsxHTFOH7qHfxBHYFkHyHFekQfHVsGxka
+Offset: 49; Result: sTESrfa6TgzMeCrHTBBauraerXTWrb5rEewrCTgr rTFgSEr8aMegf
+Offset: 50; Result: aXvDQEfJXY2ZFmQrXwwfNQfFQhXoQOyQvFUQmXYQHQXTYDvQqfZFYE
+Offset: 51; Result: fhi1SvEAhC7ITcSQhUUEtSETSPhsSW SiTuSchCSrShXC1iS5EITCv
+Offset: 52; Result: EPGRDiv9PmbjX6DSPuuvkDvXDzPaDoHDGXND6PmDQDPhmRGDyvjXmi
+Offset: 53; Result: vzM41Gi3zcOphJ1DzNNig1ih12zf1sr1Mht1Jzc1S1zPc4M1 iphcG
+Offset: 54; Result: i2Z0RMGn26WVPAR12ttGYRGPR72ERaQRZPkRA26RDR2z60ZRHGVP6M
+Offset: 55; Result: G7IL4ZMx7Jo8z94R7kkMC4Mz4b7v4fS4Izg497J41472JLI4rM8zJZ
+Offset: 56; Result: MbjK0IZebAsq2304bggZm0Z20Obi0ED0j2Y03bA0R0b7AKj0QZq2AI
+Offset: 57; Result: ZOplLjIFO9a57nL0OYYIcLI7LWOGLv1Lp7CLnO9L4LOb9lpLSI579j
+Offset: 58; Result: IWVdKpjTW3fybxKLWCCj6KjbKoWMKiRKVbmKxW3K0KWO3dVKDjyb3p
+Offset: 59; Result: jo8BlVpXonE OelKommpJlpOlsoZlG4l8OcleonlLloWnB8l1p OnV
